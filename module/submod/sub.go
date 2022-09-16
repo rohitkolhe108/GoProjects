@@ -3,5 +3,5 @@ package submod
 import "fmt"
 
 func SubPrint(){
-	fmt.Print("sub")
+	fmt.Print("sub1")
 }
